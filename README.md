@@ -1,4 +1,4 @@
 # hello-world
 repository test
 
-Github beginers' tutorial excercise
+Github beginers' tutorial excercise.
